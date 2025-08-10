@@ -1,2 +1,4 @@
 feature
 another exciting feature
+
+feature that cannot be merged automatically
